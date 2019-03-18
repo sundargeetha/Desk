@@ -1,0 +1,7 @@
+Testing
+  Types of Testing
+      1) Unit testing
+      2) System Testing
+      3) Acceptances Testing 
+      4) Black-Box teseting
+      5) Integration Testing
